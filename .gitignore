@@ -7,9 +7,12 @@ insurance.csv
 .virtual_documents/
 anaconda_projects/
 
+
+
 # macOS system files
 .DS_Store
 
 # Python cache files
 __pycache__/
 *.pyc
+
