@@ -37,3 +37,5 @@ The objective of this project is to develop a Multiple Linear Regression model t
 
 ## Conclusion
 Multiple Linear Regression effectively captures general trends in insurance charges ($R^2 \approx 0.78$). However, its main limitation is the inability to model complex non-linear feature interactions (e.g., compound risk of high BMI combined with smoking). Future work could leverage non-linear ensemble models like Random Forest or XGBoost.
+
+
